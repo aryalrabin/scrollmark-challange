@@ -45,6 +45,7 @@ Build a full-stack application that analyzes Instagram comments for sentiment an
 ### 1. Create and Activate Virtual Environment
 - From the `backend` directory, run:
 ```sh
+cd backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
